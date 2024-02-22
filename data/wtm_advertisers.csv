@@ -1,5 +1,26 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+4140c1ef-a838-43ff-84de-dbba47293562,Liberals d'Andorra,2023-04-01T10:51:51.148Z,8f3e6f60-8b1b-41f2-9e1f-a4693c0d29c0,LA,Andorra,ad,165635540196382,Liberals d'Andorra,Facebook
 0d80276f-a6aa-45f2-bd85-26fb64d31128,Partit Socialdemòcrata d'Andorra,2023-02-28T10:52:22.397Z,20656630-ef4a-4d41-b8dc-3844acccce0b,PS,Andorra,ad,184344791588436,Partit Socialdemòcrata d'Andorra,Facebook
 4c8cdaa6-35e7-4a9b-8107-2f9d33922ebe,Pere López Agràs,2023-02-19T10:52:29.303Z,cbaa0186-9cdf-4a2d-93d5-89d7b9a880ef,PS,Andorra,ad,290481071013525,Pere López Agràs,Facebook
-4140c1ef-a838-43ff-84de-dbba47293562,Liberals d'Andorra,2023-04-01T10:51:51.148Z,8f3e6f60-8b1b-41f2-9e1f-a4693c0d29c0,LA,Andorra,ad,165635540196382,Liberals d'Andorra,Facebook
 24d96e6f-c21e-41fe-8d07-f75e145626c7,Govern d'Andorra,2023-02-19T10:52:29.303Z,28b9a54f-6382-45a5-9ff4-06d309aaafad,Gov,Andorra,ad,430374277000520,Govern d'Andorra,Facebook
+a164b254-d2a9-4b2e-aeb4-d3986e078cdd,LesApicultores,2023-02-27T10:52:16.468Z,fc0b25a6-d49c-4f46-a0cd-ae085e4dcdd8,ZZZ,Andorra,ad,104640025009259,LesApicultores,Facebook
+7880147e-62f4-460d-82d6-633efeded520,Msx-1013-2,2023-11-07T05:06:06.073Z,df0b0e60-6e53-4a5c-a8a7-cd0610e56e2c,ZZZ,Andorra,ad,136739829526779,Msx-1013-2,Facebook
+425d60b2-eed5-4eeb-b33a-37449cb7cbf9,up_encamp,2023-11-26T05:06:27.646Z,178fb875-6d95-49e6-9943-92ecb1395969,ZZZ,Andorra,ad,122095557896017668,up_encamp,Facebook
+cf6583a0-37a2-44ce-9c0e-d4af0db9da2d,Altaveu,2023-03-31T10:52:14.112Z,8b1c36aa-8fd7-4f73-a3eb-c11604aad8b2,ZZZ,Andorra,ad,509592602526551,Altaveu,Facebook
+950e6b69-a203-4996-8fca-0c6a13842ba0,UpEncamp,2023-12-16T05:06:13.837Z,ebc3eb1e-1fa3-4811-b962-8402cd7cf780,ZZZ,Andorra,ad,184404054754062,UpEncamp,Facebook
+2979b25c-0446-4104-b727-4a098902c0b6,Diário do Povo Online,2023-03-08T16:09:47.410Z,cacf5660-11ed-46c0-98d4-7c4067da20b3,ZZZ,Andorra,ad,795079500550035,Diário do Povo Online,Facebook
+5df6d951-73b8-42ee-96b5-e4182376d1a6,Castell de Lloret,2023-04-25T06:51:47.895Z,eb12fab7-79a4-496b-b68a-978ee3455700,ZZZ,Andorra,ad,101218049605556,Castell de Lloret,Facebook
+a1056d76-8fb2-41b2-ade3-456e92d0d196,Fundació Universitat de Girona: Innovació i Formació,2023-09-22T05:06:05.630Z,88b3cc9a-251d-4e93-b5a1-23eae99fb5c5,ZZZ,Andorra,ad,354117115203,Fundació Universitat de Girona: Innovació i Formació,Facebook
+e4a4f26b-dda7-404c-97a4-72d3253cfed3,,2023-03-25T10:51:51.242Z,e9c1c178-c021-4ecf-9bb2-2a84f76643fd,ZZZ,Andorra,ad,105316318681353,,Facebook
+c041abb3-3ac8-4d3f-bd73-8733e99e7859,Mamis Digitales,2023-07-07T13:15:25.115Z,8b539c94-35e4-4610-80f8-cb6e1c53bd70,ZZZ,Andorra,ad,206535133095298,Mamis Digitales,Facebook
+7157508f-a46b-40ab-8dcb-29078dfd30af,"Begur, és autèntic.",2023-05-12T06:52:04.015Z,7d0606df-5f88-4965-8231-272f8c0cbdba,ZZZ,Andorra,ad,216562471710440,"Begur, és autèntic.",Facebook
+63e0b1e1-d293-4ab5-99cd-d74189ca89d8,MySolarEnergy,2023-03-26T10:51:55.806Z,b3b1bd07-d0f4-4327-a08e-d2c81bb8caae,ZZZ,Andorra,ad,270587517074225,MySolarEnergy,Facebook
+be748309-3128-4b80-bc2c-55dfc2083180,Notícias Br,2023-12-02T17:14:01.091Z,96e0ef7c-f4c7-4c24-adff-18c1cc8c3fa6,ZZZ,Andorra,ad,186366647888341,Notícias Br,Facebook
+a426bd8c-f799-4023-bad1-2a884626342a,Lluís Ribalta,2023-09-15T05:05:54.967Z,cdb429cd-89c9-4ce0-9c91-474dd2cd5b75,ZZZ,Andorra,ad,31660025666,Lluís Ribalta,Facebook
+44eef4a2-df28-4cba-a7f7-49cc4e3b7a6d,DreamHack Spain,2023-05-11T06:52:33.001Z,fed11aee-5706-47ad-beb5-28df22d2291a,ZZZ,Andorra,ad,118828288176804,DreamHack Spain,Facebook
+d43cc02f-e9fb-438d-afaa-7fd9bb324d80,MTV Spain,2023-02-13T10:52:24.188Z,3ce89222-8c80-46ec-9bf5-e6cdfda5512f,ZZZ,Andorra,ad,39887084974,MTV Spain,Facebook
+2c8e0868-7bab-436f-baa4-f16c072ac247,Gomez & Asociados GRUPO Inmobiliario,2023-06-26T05:07:19.979Z,6361d3bf-77a6-4590-831e-73d9c2c0131f,ZZZ,Andorra,ad,113442877220468,Gomez & Asociados GRUPO Inmobiliario,Facebook
+04b5fd0b-4010-47a7-8108-aa30fae740b9,someagency,2023-07-27T05:06:38.262Z,4d002024-68e3-43e5-86bd-d8f45c2c1bca,ZZZ,Andorra,ad,101889666186285,someagency,Facebook
+fe51b0b8-7c77-4347-b513-66b4ed4908e2,Diari La Ciutat d’Andorra,2023-03-25T10:51:51.242Z,5a32b5cb-93f3-432a-9499-3e4005d5c4b1,ZZZ,Andorra,ad,104646198461139,Diari La Ciutat d’Andorra,Facebook
+b50fdfd0-3eab-4dee-bf60-cd45762f6feb,crudienric,2023-12-06T05:06:06.323Z,fc05d8f2-76c5-4dc5-ad67-ebc9ca6bf090,ZZZ,Andorra,ad,192360770621204,crudienric,Facebook
+63d321ae-19cf-49eb-9e93-c3b11b57824b,carlos.chaume,2023-06-05T06:52:11.280Z,c3b3db89-4844-430e-b843-c5945a9b38b1,ZZZ,Andorra,ad,113976038314621,carlos.chaume,Facebook
