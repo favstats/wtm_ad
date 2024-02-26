@@ -1,8 +1,8 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
 4140c1ef-a838-43ff-84de-dbba47293562,Liberals d'Andorra,2023-04-01T10:51:51.148Z,8f3e6f60-8b1b-41f2-9e1f-a4693c0d29c0,LA,Andorra,ad,165635540196382,Liberals d'Andorra,Facebook
+24d96e6f-c21e-41fe-8d07-f75e145626c7,Govern d'Andorra,2023-02-19T10:52:29.303Z,28b9a54f-6382-45a5-9ff4-06d309aaafad,Gov,Andorra,ad,430374277000520,Govern d'Andorra,Facebook
 0d80276f-a6aa-45f2-bd85-26fb64d31128,Partit Socialdemòcrata d'Andorra,2023-02-28T10:52:22.397Z,20656630-ef4a-4d41-b8dc-3844acccce0b,PS,Andorra,ad,184344791588436,Partit Socialdemòcrata d'Andorra,Facebook
 4c8cdaa6-35e7-4a9b-8107-2f9d33922ebe,Pere López Agràs,2023-02-19T10:52:29.303Z,cbaa0186-9cdf-4a2d-93d5-89d7b9a880ef,PS,Andorra,ad,290481071013525,Pere López Agràs,Facebook
-24d96e6f-c21e-41fe-8d07-f75e145626c7,Govern d'Andorra,2023-02-19T10:52:29.303Z,28b9a54f-6382-45a5-9ff4-06d309aaafad,Gov,Andorra,ad,430374277000520,Govern d'Andorra,Facebook
 c041abb3-3ac8-4d3f-bd73-8733e99e7859,Mamis Digitales,2023-07-07T13:15:25.115Z,1dfeac4b-1626-4683-95a4-2b4bc97b0a3d,ZZZ,Andorra,ad,206535133095298,Mamis Digitales,Facebook
 a1056d76-8fb2-41b2-ade3-456e92d0d196,Fundació Universitat de Girona: Innovació i Formació,2023-09-22T05:06:05.630Z,3745a511-a9ab-49a8-8b5d-0a5e7b3579b0,ZZZ,Andorra,ad,354117115203,Fundació Universitat de Girona: Innovació i Formació,Facebook
 04b5fd0b-4010-47a7-8108-aa30fae740b9,someagency,2023-07-27T05:06:38.262Z,b3be0abb-e036-4a3a-93dd-47f21350bc03,ZZZ,Andorra,ad,101889666186285,someagency,Facebook
